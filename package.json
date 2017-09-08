@@ -1,0 +1,38 @@
+{
+    "author": "hbh7",
+    "dependencies": {},
+    "keywords": [],
+    "name": "skooltm",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "SkoolTM",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/image_bluetooth",
+                    "name": "IMAGE_BLUETOOTH",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "0668b557-2789-47cd-bcac-b1872a8dd2bf",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
